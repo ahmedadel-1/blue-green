@@ -15,5 +15,4 @@ At any time, one (Blue) is live and the other (Green) is staged for the new vers
 
 ---
 
-## 📌 File Structure
 
